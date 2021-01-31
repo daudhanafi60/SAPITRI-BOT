@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/daudhanafi0/SAPITRI BOT
-> cd SAPITRI BOT
+> git clone https://github.com/daudhanafi0/SAPITRIB-OT
+> cd SAPITRIB-BOT
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
